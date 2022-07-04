@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+##Portfolio
 
-You can use the [editor on GitHub](https://github.com/lmadgula/-lmadgula-.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Throughout this README you can find personal as well as academic projects I have been working on recently. This file serves as a directory. If you have any questions, feel free to contact me at [contact me](mailto:laasya.m1@gmail.com@gmail.com)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
