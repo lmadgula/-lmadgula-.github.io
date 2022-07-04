@@ -1,12 +1,10 @@
-##Portfolio
+## Portfolio
 
-Throughout this README you can find personal as well as academic projects I have been working on recently. This file serves as a directory. If you have any questions, feel free to contact me at [contact me](mailto:laasya.m1@gmail.com@gmail.com)
+Throughout this README you can find personal as well as academic projects I have been working on recently. This file serves as a directory. If you have any questions, feel free to contact me at [laasya.m1@gmail.com](mailto:laasya.m1@gmail.com@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Personal Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
